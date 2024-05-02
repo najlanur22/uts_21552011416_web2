@@ -4,6 +4,10 @@ $books = [
     ['title' => 'Harry Potter', 'author' => 'J.K. Rowling', 'year' => 1997, 'available' => true, 'image' => 'img/Harry-Potter.jpg'],
     ['title' => 'Lord of the Rings', 'author' => 'J.R.R. Tolkien', 'year' => 1954, 'available' => true, 'image' => 'img/lord.jpg'],
     ['title' => 'To Kill a Mockingbird', 'author' => 'Harper Lee', 'year' => 1960, 'available' => true, 'image' => 'img/kill.jpeg'],
+    ['title' => 'See You In The Cosmos', 'author' => 'Jack Cheng', 'year' => 2017, 'available' => true, 'image' => 'img/see.jpg'],
+    ['title' => 'Pride and Prejudice', 'author' => 'Jane Austen', 'year' => 1813, 'available' => true, 'image' => 'img/jane.jpg'],
+    ['title' => 'The Black Swan', 'author' => 'Nassim Nicholas Taleb', 'year' => 2007, 'available' => true, 'image' => 'img/swan.jpg'],
+    ['title' => 'Earth', 'author' => 'Tere Liye', 'year' => 2014, 'available' => true, 'image' => 'img/earth.jpg'],
 ];
 
 // Fungsi untuk meminjam buku
